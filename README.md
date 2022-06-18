@@ -1,4 +1,4 @@
-# Perficient-Bootcam-Challenge1
+# Perficient-Bootcamp-Challenge1
 This is a challenge about testing https://petstore.swagger.io/v2 API. 
 Here, you can find three main test.
 First one is about verifying we get Status 200 and the pet is now available
